@@ -79,4 +79,4 @@ Session Persistence:
 
 Clone the repo:
 
-git clone https://
+git clone (https://github.com/wnzimah/WTSM-App.git)
